@@ -1,6 +1,6 @@
 # CRUD Operations in  Go
 ---
-![[CRUD.png]]
+![[./CRUD.png]]
 
 simple Flow chart of the CRUD operations
 
